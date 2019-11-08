@@ -8,6 +8,6 @@ package com.xieminglu.git;
  */
 public class demo1 {
     public static void main(String[] args) {
-        System.out.println("idea git dmeo");
+        System.out.println("idea git demo1111111111");
     }
 }
